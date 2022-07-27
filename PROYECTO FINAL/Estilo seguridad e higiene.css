@@ -1,0 +1,39 @@
+body{
+    background-image: url(imagen\ de\ fondo..webp);
+    background-size: auto;
+}
+header .contenedor{
+    display: flex;  
+    flex-direction: column;
+    background-color: rgb(219, 213, 213);  
+    
+}
+.contenedor{
+    padding: 30px;
+    margin-left: 10px;
+    width:1300px;
+    height: 150px;
+    margin-top: 0.5em;
+        
+
+}
+
+h1{
+text-align: center;
+font-size: 3em;
+color:rgb(32, 30, 30);
+
+}  
+.logo{
+width: 250px;
+height: 169px;
+float:left;
+}
+.video{
+margin-left: 380px;
+top:360px;
+position: absolute;
+
+
+
+}
